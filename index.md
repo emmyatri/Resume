@@ -40,7 +40,7 @@ Utilized Git for version control and team collaboration.
 **Wedding Musician Extraordinaire** • Anyone Who Would Pay Me
 - Used 25 years of rigorous classical piano study to end up with Piano Man by Billy Joel as my most requested song. 
 - Can play Pachelbel's Canon in over 38 different ways while blindfolded.
-- Proficient at coordinating with client to curate their perfect musical experience.
+- Proficient at coordinating with clients to curate their perfect musical experience.
 - I also do Bar/Bat Mitzvahs.
 
 ## Technical Skills
