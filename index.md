@@ -1,7 +1,7 @@
 # Amelia Ellingson
 
 **Email:** [aelling6@students.kennesaw.edu](mailto:aelling6@students.kennesaw.edu)        
-**Website:** [emmyatri.github.io](https://emmyatri.com)     
+**Website:** [emmyatri.io](https://emmyatri.io)     
 **GitHub:** [github.com/emmyatri](https://github.com/emmyatri)        
 
 ## Professional Summary
