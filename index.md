@@ -18,13 +18,13 @@ Expected Graduation: 2028
 ### Fall 2025  
 **Low Level Programming** • Computer Architecture  
 - Developed a low-level programming solution in C to explore system architecture.  
-- Implemented 2 projects involving memory management, pointers, and system calls
-- Gained hands-on understanding of hardware-software relationships
-- Used command-line tools and Unix environment for development  
+- Implemented 2 projects involving memory management, pointers, and system calls.
+- Gained hands-on understanding of hardware-software relationships.
+- Used command-line tools and Unix environment for development.  
 
 ### Spring 2025  
 **Project Manager / Lead Developer** • Group 17 CSE 1321
-- Collaborated with team to design and develop interactive game using PyCharm  
+- Collaborated with team to design and develop interactive game using PyCharm.  
 - Implemented game mechanics, user interface, and event handling system.
 - Coordinated a team of fice to apply object oriented programming principles to create moduler and maintainable code.
 Utilized Git for version control and team collaboration.  
@@ -39,9 +39,9 @@ Utilized Git for version control and team collaboration.
 ### Fall 2017 - Winter 2024
 **Wedding Musician Extraordinaire** • Anyone Who Would Pay Me
 - Used 25 years of rigorous classical piano study to end up with Piano Man by Billy Joel as my most requested song. 
-- Can play Pachelbel's Canon in over 38 different ways while blindfolded
+- Can play Pachelbel's Canon in over 38 different ways while blindfolded.
 - Proficient at coordinating with client to curate their perfect musical experience.
-- I also do Bar/Bat Mitzvahs
+- I also do Bar/Bat Mitzvahs.
 
 ## Technical Skills
 
